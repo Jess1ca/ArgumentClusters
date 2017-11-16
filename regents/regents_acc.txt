@@ -1,0 +1,54 @@
+A restaurant served ([9 pizzas] [during lunch]) and ([6] [during dinner]) today .
+He gave ([3] [to Jessica]) and ([6] [to Sara]) .
+A restaurant served ([5 cakes] [during lunch]) and ([6] [during dinner]) today .
+Park workers will plant ([3 dogwood trees] [today]) and ([2 dogwood trees] [tomorrow]) .
+Park workers will plant ([41 dogwood trees] [today]) and ([20 dogwood trees] [tomorrow]) .
+There are ([43 pencils] [in the drawer]) and ([19 pencils] [on the desk]) .
+A restaurant served ([6 cakes] [during lunch]) and ([9] [during dinner]) today .
+Joan purchased ([a basketball game] [for $ 5.20]) , and ([a racing game] [for $ 4.23]) .
+He bought ([a trumpet] [for $ 145.16]) , and ([a song book which was $ 5.84]) .
+Sara spent ([$ 5.36] [on a hotdog]) and ([$ 5.10] [on a salad]) .
+He spent ([$ 14.28] [on shorts]) and ([$ 4.74] [on a jacket]) .
+Alyssa paid ([$ 12.08] [for grapes]) , and ([$ 9.85] [for cherries]) .
+Mary paid ([$ 11.08] [for berries]) , ([$ 14.33] [for apples]) , and ([$ 9.31] [for peaches]) .
+She spent ([$ 13.99] [on shorts]) , ([$ 12.14] [on a shirt]) , and ([$ 7.43] [on a jacket]) .
+He bought ([a flute] [for $ 142.46]) , ([a music tool] [for $ 8.89]) , and ([a song book] [for $ 7]) .
+Tom purchased ([a football game] [for $ 14.02]) , ([a strategy game] [for $ 9.46]) , and ([a Batman game] [for $ 12.04]) .
+A car company produced ([3884 cars] [in North America]) and ([2871 cars] [in Europe]) .
+Kendall is learning to drive , so this weekend she practiced driving ([0.16666666666666666 mile] [with her mother]) and ([another 0.5 mile] [with her father]) .
+A tailor cut ([0.75 inch off] [a skirt]) and ([0.5 inch off] [a pair of pants]) .
+The Montoya family spends ([0.6 their budget] [on groceries]) and ([another 0.2] [going out to eat]) .
+Craig walked ([0.2 mile] [from school] [to David 's house]) and ([0.7 mile] [from David 's house] [to his own house]) .
+In Yardley it snowed ([0.125 inch] [in the morning]) and ([0.5 inch] [in the afternoon]) .
+First , they hiked ([0.2 mile] [from the car] [to a stream]) , and ([0.4 mile] [from the stream] [to a meadow]) .
+She finds ([0.25 bottle] [at the first table]) , ([0.25 bottle] [at the second table]) , and ([0.375 bottle] [at the third table]) .
+Then she walked ([0.1111111111111111 mile] [from the postcard shop] [to a T-shirt shop]) and ([0.6666666666666666 mile] [from the T-shirt shop] [back to the hotel]) .
+First , he walked ([0.3 mile] [from his house] [to the library]) and ([0.1 mile] [from the library] [to the post office]) .
+A spaceship traveled ([0.5 light-year] [from Earth] [to Planet X]) and ([0.1 light-year] [from Planet X] [to Planet Y]) .
+He recorded ([0.3333333333333333 centimeter] [on Wednesday]) , ([0.3333333333333333 centimeter] [on Thursday]) , and ([0.2222222222222222 centimeter] [on Friday]) .
+He served ([0.25 pitcher of lemonade] [during the first intermission]) , ([0.4166666666666667 pitcher] [during the second]) , and ([0.25 pitcher] [during the third]) .
+Then she walked ([0.3333333333333333 mile] [to the carnival rides]) and ([0.08333333333333333 mile] [from the carnival rides] [back to the car]) .
+Kyle jogged ([1.125 laps] [in P.E. class]) and ([2.125 laps] [during track practice]) .
+The fault line moved ([1.25 inches] [during the past year]) and ([5.25 inches] [the year before]) .
+(Alec) and (his roommates) ate ([3.25 pints of ice cream] [on Friday night]) and ([0.25 pint of ice cream] [on Saturday night]) .
+It snowed ([0.32 inches] [on Monday]) and ([0.21 inches] [on Tuesday]) .
+It rained ([0.2 inches] [on Saturday]) and ([0.4 inches] [on Sunday]) .
+Sally paid ([$ 12.32 total] [for peaches] , [after a 3 dollar coupon]) , and ([$ 11.54] [for cherries]) .
+She spent ([$ 13.04] [on a shirt]) and ([$ 12.27] [on a jacket]) .
+He bought ([a clarinet] [for $ 130.30]) , and ([a song book which was $ 11.24]) .
+Mary spent ([$ 1.08] [on soup]) and ([$ 4.80] [on a salad]) .
+For his car , Mike spent ([$ 118.54] [on speakers]) and ([$ 106.33] [on new tires]) .
+Tom purchased ([a Batman game] [for $ 13.60]) , and ([a Superman game] [for $ 5.06]) .
+Joan spent ([$ 15] [on shorts]) and ([$ 14.82] [on a jacket]) , and ([$ 12.51] [on a shirt]) .
+She bought ([a trumpet] [for $ 149.16]), ([a music tool] [for $ 9.98]) , and ([a song book which was $ 4.14]) .
+Melanie bought ([a Batman game] [for $ 6.95]) , ([a strategy game] [for $ 7.90]) , and ([a Superman game] [for $ 7.73]) .
+Keith spent ([$ 136.01] [on speakers]) , ([$ 139.38] [on a CD player]) , and ([$ 112.46] [on new tires]) .
+There were ([46 bales of hay] [in the barn]) and ([32 bales] [in the shed]) .
+A restaurant served ([7 slices of pie] [during lunch]) and ([5] [during dinner]) today .
+Park workers will plant ([5 dogwood trees] [today]) and ([4 dogwood trees] [tomorrow]) .
+He gave ([7] [to Tim]) and ([4] [to Jason]) .
+There are ([7 crayons] [in the drawer]) and ([6 crayons] [on the desk]) .
+A restaurant served ([4 pies] [during lunch]) and ([9] [during dinner]) today .
+Park workers will plant ([37 orchid bushes] [today]) and ([25 orchid bushes] [tomorrow]) .
+There were ([32 bales of hay] [in the barn]) and ([26 bales] [in the shed]) .
+A restaurant served ([9 hot dogs] [during lunch]) and ([2] [during dinner]) today .
